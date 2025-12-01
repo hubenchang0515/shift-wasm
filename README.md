@@ -68,7 +68,7 @@ export default defineConfig({
 })
 ```
 
-## Usage via external module
+### Usage via external module
 
 ```html
 <html>
