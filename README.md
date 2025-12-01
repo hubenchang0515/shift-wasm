@@ -93,7 +93,7 @@ export default defineConfig({
 </html>
 ```
 
-> `makeConfig` in external module is different from this packages, it does not need the `wasm` and `data` parameters.
+> `makeConfig` in external module is different from this package, it does not need the `wasm` and `data` parameters.
 
 
 ### Refer page in `<iframe>`
