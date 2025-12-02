@@ -1,6 +1,6 @@
 {
   "name": "shift-wasm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "WebAssembly runtime for Python, Lua, Ruby and etc.",
   "homepage": "https://github.com/hubenchang0515/shift-wasm#readme",
   "bugs": {
